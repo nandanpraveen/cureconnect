@@ -1,0 +1,35 @@
+## Privacy Policy and Lack of Responsibility Agreement  
+
+**Effective Date:** [Insert Date]  
+
+### 1. **Privacy Policy**  
+CureConnect ("the App") is designed with the utmost respect for user privacy. To maintain this, the App operates entirely offline and does not collect, store, or transmit any personal data or usage information.  
+
+- **No Data Collection:** CureConnect does not gather any personal, medical, or usage data from users.  
+- **No Internet Services:** The App functions offline, meaning there are no connections to external servers, databases, or third-party services.  
+- **No Tracking:** CureConnect does not use any tracking technologies such as cookies, analytics, or third-party tracking software.  
+
+### 2. **Lack of Responsibility Agreement**  
+By using CureConnect, you acknowledge and agree to the following terms regarding its content and usage:  
+
+#### **No Official Medical Advice**  
+- The information provided in CureConnect is intended solely for informational and educational purposes.  
+- It is not a substitute for professional medical advice, diagnosis, or treatment.  
+- Always seek the advice of a qualified healthcare provider for any questions or concerns regarding medical conditions or treatments.  
+
+#### **Disclaimer of Liability**  
+- **No Guarantees:** CureConnect does not guarantee the accuracy, completeness, or reliability of the information provided within the App.  
+- **User Responsibility:** You use CureConnect at your own risk. The App's creators, developers, and affiliates are not liable for any direct, indirect, incidental, or consequential damages arising from the use of, or reliance upon, the information provided.  
+- **No Medical Liability:** If you choose to use any remedies or cures mentioned in the App, you do so at your own discretion and assume all risks associated with such use.  
+
+#### **Indemnification**  
+By using CureConnect, you agree to indemnify and hold harmless the App's creators, developers, and affiliates from any claims, damages, liabilities, or costs arising from your use of the App or the reliance upon its content.  
+
+### 3. **No Support or External Services**  
+- CureConnect does not provide any form of customer support, online communication, or external services.  
+- This ensures complete privacy and the absence of any potential data transmission risks.  
+
+### 4. **Changes to this Policy**  
+We reserve the right to update this Privacy Policy and Lack of Responsibility Agreement at any time. Changes will be reflected in the App with the updated effective date.  
+
+---
